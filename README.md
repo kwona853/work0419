@@ -9,7 +9,7 @@
 
 ## Title 2
 
--item 3
+- item 3
 
 ### Title 3
 #### Title 4
